@@ -1,4 +1,4 @@
-
+/* Test */
 
 <div>
     <?php foreach($menu as $key => $value):?>
